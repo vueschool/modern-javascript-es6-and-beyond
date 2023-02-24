@@ -1,0 +1,15 @@
+{
+  "name": "es6-and-beyond",
+  "version": "1.0.0",
+  "description": "Vue School Course for Javascript ES6 and Beyond",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vue School",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
